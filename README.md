@@ -43,20 +43,20 @@ The dataset includes weather observations such as:
 4. **Weather Condition Frequency**  
    A bar chart displaying the occurrence of various weather conditions.
 
-Results
+##Results
 
-01.Seasonal temperature variations highlight distinct weather patterns.
-02.High humidity often corresponds with lower visibility.
-03.Wind speeds increase during specific weather conditions like storms.
-04.Atmospheric pressure drops are closely associated with adverse weather events.
+01. Seasonal temperature variations highlight distinct weather patterns.
+02. High humidity often corresponds with lower visibility.
+03. Wind speeds increase during specific weather conditions like storms.
+04. Atmospheric pressure drops are closely associated with adverse weather events.
 
-Future Work
+##Future Work
 
-01.Incorporate machine learning models for weather prediction.
-02.Analyze additional datasets for broader insights.
-03.Explore real-time weather data integration.
+01. Incorporate machine learning models for weather prediction.
+02. Analyze additional datasets for broader insights.
+03. Explore real-time weather data integration.
 
-Author
+##Author
 
 Sumit Saini
 Email: sumitsaini3041@gmail.com
